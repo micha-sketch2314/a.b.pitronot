@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="he" dir="rtl" class="heebo_dfa0501f-module__yCNJeq__variable">
     <head>
         <meta charSet="utf-8"/>
